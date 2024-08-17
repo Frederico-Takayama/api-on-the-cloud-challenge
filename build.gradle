@@ -28,7 +28,7 @@ dependencies {
 
 tasks.jar {
   manifest {
-    attributes["Main-Class"] = "takayama.edu.cloudchallenge.Application"
+    attributes["Main-Class"] = "takayama.edu.cloudchallenge.ApiOnCloudChallengeApplication"
   }
 }
 
